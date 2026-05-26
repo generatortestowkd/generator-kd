@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
-  "https://github.com/generatortestowkd/generator-kd/blob/raw/Zainstaluj_GeneratorTestowKD_v1.1_AUTO.exe",
-  "notes": "Usunieto pola Przedmiot, Grupa/Klasa i Czas z formularza testu"
+  "version": "1.2.0",
+  "url": "https://github.com/generatortestowkd/generator-kd/raw/main/Zainstaluj_GeneratorTestowKD_v1.2.0.exe",
+  "notes": "Nowe logo KD, usunieto pola Przedmiot i Czas, brak okna CMD"
 }
