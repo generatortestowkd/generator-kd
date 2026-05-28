@@ -1,7 +1,7 @@
 {
-  "version": "1.1",
+  "version": "1.11",
   "date": "2026-05-29",
   "count": 135,
   "notes": "Aktualizacja",
-  "url": "https://github.com/generatortestowkd/generator-kd/blob/raw/baza_zadan.json"
+  "url": "https://raw.githubusercontent.com/generatortestowkd/generator-kd/refs/heads/main/baza_zadan.json"
 }
