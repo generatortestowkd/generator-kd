@@ -1,5 +1,5 @@
 {
-  "version": "2.1.0",
-  "url": "https://github.com/generatortestowkd/generator-kd/raw/main/Zainstaluj_GeneratorTestowKD_v2_1_0.exe",
-  "notes": "Umożliwienie wyszukiwania pytań po ich numerach ewidencyjnych, usunięcie drukowania stopki, wprowadzenie numerowanie stron testów. Kontorlowanie daty ważnośći dokumentów użytych w pytaniach."
+  "version": "2.1.1",
+  "url": "https://github.com/generatortestowkd/generator-kd/raw/main/Zainstaluj_GeneratorTestowKD_v2_1_1.exe",
+  "notes": "Zmiany w sortowaniu pytań. Umożliwienie wyszukiwania pytań po ich numerach ewidencyjnych, usunięcie drukowania stopki, wprowadzenie numerowanie stron testów. Kontorlowanie daty ważnośći dokumentów użytych w pytaniach."
 }
