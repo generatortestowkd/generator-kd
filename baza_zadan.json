@@ -1,7 +1,7 @@
 {
   "format": "generator-kd-baza",
   "version": "2.0",
-  "exported": "2026-10-15T18:35:07.344Z",
+  "exported": "2026-10-15T19:41:11.593Z",
   "count": 210,
   "db": [
     {
@@ -5632,7 +5632,7 @@
     {
       "id": "mv80fj76yy7pz8ufmguv",
       "type": "single",
-      "text": "W dniu 25.06.2026 w pociągu relacji Wrocław Główny - Zielona Góra Główna (przez Wołów) podczas kontroli wykryto pasażera z zaprezentowanym biletem. Jak prawidłowo należy odprawić pasażera?",
+      "text": "W dniu 25.06.2026 w pociągu relacji Wrocław Główny - Zielona Góra Główna (przez Wołów) podczas kontroli wykryto pasażera z zaprezentowanym biletem. Jak prawidłowo należy odprawić pasażera??",
       "answers": [
         "Nalezy wystawić pasażerowi nowy bilet na odcinku Wrocław Główny - Zielona Góra Główna (bez opłaty dodatkowej)",
         "Nalezy wystawić pasażerowi nowy bilet na odcinku Wrocław Główny - Zielona Góra Główna (doliczając opłatę dodatkowa za wydanie biletu)",
@@ -5652,7 +5652,7 @@
         }
       ],
       "tags": [],
-      "category": "",
+      "category": "T",
       "zakres": "H",
       "validUntil": "",
       "validExpectedExpired": false,
@@ -5666,7 +5666,7 @@
     {
       "id": "mv80kmfopcguxg1s5f86l",
       "type": "single",
-      "text": "W pociągu relacji Wrocław Główny - Zgorzelec w dniu 17.06.2026 wykryto pasażera z zaprezentowanym dokumentem. Jak należy prawidłowo pasażera odprawić.",
+      "text": "W pociągu relacji Wrocław Główny - Zgorzelec w dniu 17.06.2026 wykryto pasażera z zaprezentowanym dokumentem. Jak należy prawidłowo pasażera odprawić..",
       "answers": [
         "Dokument nie jest honorowany w pociągach KD. Należy wystawić nowy bilet doliczając opłatę dodatkową za wydanie biletu w pociągu.",
         "Wystawić bilet ze zniżką 100% na przejazd w relacji Wrocław Główny - Zgorzelec (bez opłaty za wydanie biletu w pociągu)",
@@ -5686,7 +5686,7 @@
         }
       ],
       "tags": [],
-      "category": "",
+      "category": "T",
       "zakres": "H",
       "validUntil": "",
       "validExpectedExpired": false,
