@@ -1,7 +1,7 @@
 {
   "format": "generator-kd-baza",
   "version": "2.0",
-  "exported": "2026-10-26T23:57:19.586Z",
+  "exported": "2026-10-27T09:17:18.057Z",
   "count": 214,
   "db": [
     {
@@ -5460,7 +5460,7 @@
         "Na bilecie na terenie Polski przejazd mogą odbywać 2 osoby dorosłe i max. 3 dzieci w wieku 6-15 lat"
       ],
       "correct": [
-        1
+        0
       ],
       "points": 1,
       "key": "",
@@ -5478,7 +5478,8 @@
       "validExpectedExpired": false,
       "validNoExpiry": true,
       "createdAt": "2026-10-14T10:49:45.332Z",
-      "ewid": "KD-2026-204"
+      "ewid": "KD-2026-204",
+      "categories": []
     },
     {
       "id": "mv7zqcad1ljss4g1b7sgzl",
